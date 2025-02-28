@@ -1,4 +1,4 @@
-step 1: git clone https://github.com/codingacharya/pythoncompiler.git
+step 1: git clone https://github.com/vishnuv497/pythoncompiler.git
 
 step 2: cd pythoncompiler
 
